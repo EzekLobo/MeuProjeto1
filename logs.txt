@@ -1,0 +1,1539 @@
+
+####################### TRILHA DE DOTNET- INTRODUÇÃO ##########################
+
+==================================================  
+commit 7fd9ffd5ce2a648ebd5380e15fa9b5d6f0ad7e1f
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 15:19:55 2023 -0300
+
+    teste
+==================================================  
+commit 2fb2300552b9da858cb19c83854d850aa10c00b8
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Nov 29 21:12:07 2023 -0300
+
+    Atualização
+==================================================  
+commit 77495348984088396dccad1d07c7781b31a7315f (origin/NET-P003)
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Nov 29 21:04:13 2023 -0300
+
+    Descrição
+==================================================  
+commit c194d80e68c06c69d07db72fc64a3edddf914040
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Sun Nov 26 01:42:00 2023 -0300
+
+    Desenvolvimento Prática 3:Gerenciamento de estoque
+==================================================  
+commit c40cea9c09ef51e5b28fb3ce9c3627bcb1ae9e91 (origin/Aula-03)
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 23 16:58:03 2023 -0300
+
+    Atividades feitas em aula
+==================================================  
+commit 85d6968ff0c204b23b9caeb61fbed5ca6f928fb2 (origin/NET-P002)
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Mon Nov 20 20:17:14 2023 -0300
+
+    Atualização
+==================================================  
+commit d2cf210ce061a66486fab1ee9390df3a3283b472
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Mon Nov 20 20:02:53 2023 -0300
+
+    Segunda prática dotnet
+==================================================  
+commit 9329a8a0a409ef28845a100427c422425e2be477
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Sun Nov 19 21:00:48 2023 -0300
+
+    .
+==================================================  
+commit 9428dd12805651acdb3d9fcd2378537a55d8716e (origin/Aula-02)
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 16 15:36:15 2023 -0300
+
+    problema-03
+==================================================  
+commit f31de6e516628182d6ff383fab20d70a79ca5b6b
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 16 15:22:07 2023 -0300
+
+    Atividades em aula
+==================================================  
+commit 9cef34eaa8ce7c02d5d0bd68e5e6067d73af8508
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Nov 15 19:36:13 2023 -0300
+
+    README.md
+==================================================  
+commit a1d4982cafc619ae369dfa7aa93e2ff7165ff885
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Nov 15 19:33:01 2023 -0300
+
+    Atualização da descrição README.md
+==================================================  
+commit 0747344df0f92a50e6df417acd6a215028160beb
+Author: EzekLobo <147009987+EzekLobo@users.noreply.github.com>
+Date:   Thu Nov 9 15:09:16 2023 -0300
+
+    Initial commit
+    
+    
+==================================================  
+# AVALIAÇÃO EM GRUPO DOTNET
+
+==================================================
+
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 16:28:48 2023 -0300
+
+    Funcional
+==================================================
+commit bbfefcd05272f330d9538f8b6ad9111fc7903cda
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 16:21:15 2023 -0300
+
+    Modificações
+==================================================
+commit 1aad238fdda98761734c27d5eabe1d8f0c31222e
+Merge: dfef453 62cb557
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 16:06:35 2023 -0300
+
+    Merge remote-tracking branch 'origin/desenvolvimento' into Ezequiel-POO5
+==================================================
+commit 62cb557f72fc323da73b015a72351e836ece73ae
+Merge: 5c37be1 acc46f5
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 15:54:29 2023 -0300
+
+    Merge branch 'desenvolvimento' of https://github.com/RicardTIc/TIC18_DOTNET_P
+004 into desenvolvimento
+==================================================
+commit dfef4534e4917858a3616761dc385649816e3c01
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 15:50:29 2023 -0300
+
+    Modificações
+==================================================
+commit 5c37be120675d6a3d7ddb9735eb514577e116b11
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 15:50:23 2023 -0300
+
+    Consultoria
+==================================================
+commit acc46f50901ce06a0f5c34ef1f062efcc2221422
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 15:49:58 2023 -0300
+
+    Fix: completando relatorios
+==================================================
+commit 5490be42a7cf9b4ebd807c93210997acea868a93
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 15:46:55 2023 -0300
+
+    Feat: completando relatorios
+==================================================
+commit 2d7a1bc92bda3ff218efb86eae42e10c77db0f0a
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 15:46:53 2023 -0300
+
+    Feat: completando relatorios
+==================================================
+commit 2efa21a6232c86f74ec363d3a2eeb246cd423140
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 15:30:10 2023 -0300
+
+    Implementação de atributos
+==================================================
+commit 40e318e0d173e9bae48b5a4281468e07553d8d34
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 15:28:48 2023 -0300
+
+    Subindo para desenvolvimento
+==================================================
+commit 1a51b27ec5f90f4bf74534183bb0c0ecd85528f1
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 15:27:24 2023 -0300
+
+    Novas classes
+==================================================
+commit e3d737da560969963d5c54155cb84ce869e1d5f4
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 15:07:21 2023 -0300
+
+    Feat: codigo modularizado
+==================================================
+commit 02df92f1bf38c90eac543eddd9923e8128a3a41d (origin/main, origin/HEAD, main)
+Author: Ricardo <148831994+RicardTIc@users.noreply.github.com>
+Date:   Wed Dec 6 23:19:13 2023 -0300
+
+    Update README.md
+==================================================
+commit 5ed52ef28ec3a78c5ed28099e307bb30ec72958c
+Author: Ricardo <148831994+RicardTIc@users.noreply.github.com>
+Date:   Wed Dec 6 23:18:09 2023 -0300
+
+    Update README.md
+==================================================
+commit d91d39c4fe428d2eab606e8d7ac74f036475989d
+Author: Ricardo <148831994+RicardTIc@users.noreply.github.com>
+Date:   Wed Dec 6 23:15:39 2023 -0300
+
+    Update README.md
+==================================================
+commit f3009fd07575d9f3acb41c4457c6ee73c72be1f7
+Merge: 846bb54 3ab992e
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 23:05:18 2023 -0300
+
+    Merge branch 'main' of https://github.com/RicardTIc/TIC18_DOTNET_P004
+==================================================
+commit 846bb54d97a5e73ccd5f4e4969f63b8d23ed74ef
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 23:02:13 2023 -0300
+
+    codigo
+==================================================
+commit 3ab992e3369585f7c18e0df924ab1fce4d982db5
+Merge: 88b6286 2fda203
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.
+com>
+Date:   Wed Dec 6 19:13:12 2023 -0300
+
+    Merge pull request #1 from RicardTIc/ian
+    
+    Adicionando gitignore
+==================================================
+commit 2fda2032c62dba7584be1f94cb87cce96d5c2489
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.
+com>
+Date:   Wed Dec 6 19:11:56 2023 -0300
+
+    Adicionando gitignore
+==================================================
+commit 88b62860e4e9d6eb900baedc26efb306a039f1d2
+Author: Ricardo <148831994+RicardTIc@users.noreply.github.com>
+Date:   Wed Dec 6 10:30:50 2023 -0300
+
+    Initial commit
+==================================================   
+    
+ # AVALIAÇÃO INDIVIDUAL DOTNET
+
+
+==================================================
+commit ff962735d9ec8e676713f756f05ade21ef1efae1 (origin/avaliacao1)
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 17:53:16 2023 -0300
+
+    Final
+==================================================
+commit 617acfed72d47f1a1a7a8f803ea167a61ca6d892
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 17:50:36 2023 -0300
+
+    8- Otimização - Se não prestar, foi sua máquina
+==================================================
+commit 6c6d762a99721c9d97bc60cf423f4252c66e1b56
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 17:42:11 2023 -0300
+
+    7 - Manipulação dos tratamentos de exceção
+==================================================
+commit 55f52671e74b350d6a7acdf721ed8b10d77b0f25
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 17:28:45 2023 -0300
+
+    6.5 organização e relatorios
+    
+==================================================
+commit cc97ae9dfd1e34da0f29532ff817459e4b33d91b
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 17:04:58 2023 -0300
+
+    6.1
+==================================================
+commit ab116bbf36e57fd60b8420fd7d95b28c6d3f7c88
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 17:04:45 2023 -0300
+
+    6 - Se compila tá certo
+==================================================
+commit 6aac8dd2da28e5e0a002ae2af6674a0413e9826a
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 16:46:37 2023 -0300
+
+    5-Complemento e otimização
+==================================================
+commit d531ec43f692d47536bb87364818e6b4c9b99547
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 16:32:24 2023 -0300
+
+    4- implementações de metodos do escritorio
+    
+==================================================
+commit fa217cf95f1019ad5e592c8b39f38bf55cfff4ee
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 16:23:05 2023 -0300
+
+    3-organização de clsses em arquivos separados
+==================================================
+commit 8bb4734d0d31399f6f289adaccea9dd1a86b0a19
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 16:07:13 2023 -0300
+
+    2.1
+==================================================
+commit 5912295bb75fcffa8cc884b0ee1d693a8bafebd8
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 16:00:48 2023 -0300
+
+    segundo
+==================================================
+commit f6fe8cf558236f74ddeee94965d45f3e744af770
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 15:55:17 2023 -0300
+
+    segundo
+==================================================
+commit dfe8b22eb1c1af1c5c8d89635bb979d3166398f6
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Nov 30 15:38:01 2023 -0300
+
+    primeiro
+    
+==================================================    
+
+# TRILHA DOTNET - BÁSICO
+==================================================  
+commit 54f909efae060f64eba014d9ac741ffce1cf9bd2 (HEAD -> DOTNET-P003/Id_02.Ezequiel_Lobo-organizacao_das_camadas, origin/DOTNET-P003/Id_02.Ezequiel_Lobo-organizacao_das_camadas)
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Sun Jan 7 19:13:21 2024 -0300
+
+    Alteração sln
+==================================================  
+commit 3799992429fafeecd6ba2459c51fb182ee772cf9
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Sun Jan 7 19:06:13 2024 -0300
+
+    Alteração sln
+==================================================  
+commit befcd97f4e2b7aa1feb9a0f2660ab84f901b9656
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Sun Jan 7 18:52:27 2024 -0300
+
+    Organização das camadas
+==================================================  
+commit c50f727e8b73d5d90d98ea2462c71fc37877ac5a (origin/Roadmap_ASP_NET_CORE)
+Merge: 37f9fb8 79a209c
+Author: Alan Santos <30904884+AlanSantos01@users.noreply.github.com>
+Date:   Sun Jan 7 18:01:18 2024 -0300
+
+    Merge pull request #8 from AlanSantos01/DOTNET-P002/id_04-resumo_habilidades_equipe
+    
+    Add id_04-resumo-habilidades-equipe
+==================================================  
+commit 9d97860230bc1813279a9d1e46518a260021d1b1 (origin/CleanArchitecture, CleanArchitecture)
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Sun Jan 7 17:57:52 2024 -0300
+
+    Initial commit
+==================================================  
+commit 1d3e02e000ba5237c46ffff611d3c315389feddf (origin/DOTNET-P002/id_03.daniel_coutinho-minhas_skills)
+Author: Daniel Coutinho Neto <danielcoutinhoneto@outlook.com>
+Date:   Sun Jan 7 17:26:21 2024 -0300
+
+    Atualização PI--2
+==================================================  
+commit 79a209c255f7a8624b84ac22346fe68b592a8d1e (origin/DOTNET-P002/id_04-resumo_habilidades_equipe)
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Sun Jan 7 11:31:38 2024 -0300
+
+    Add id_04-resumo-habilidades-equipe
+==================================================  
+commit 37f9fb8b980664daf2a4ddf01ea34f9123157114
+Merge: 07a5884 a1420e4
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Sat Jan 6 17:55:02 2024 -0300
+
+    Merge pull request #7 from AlanSantos01/DOTNET-P002/id_03.ezequiel_lobo-minhas-skills
+    
+    Dotnet p002/id 03.ezequiel lobo minhas skills
+==================================================  
+commit a1420e48df711f5a0f4affd3d038aaade03f9a98 (origin/DOTNET-P002/id_03.ezequiel_lobo-minhas-skills)
+Merge: af9200d 07a5884
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Dec 20 01:29:12 2023 -0300
+
+    Merge branch 'Roadmap_ASP_NET_CORE' into DOTNET-P002/id_03.ezequiel_lobo-minhas-skills
+==================================================  
+commit af9200d29646924a4de05089be5e45512f7b1e19
+Merge: 8dc44c9 d28310a
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Sat Dec 16 21:18:51 2023 -0300
+
+    Merge branch 'DOTNET-P002/id_03.FranklinPereira-minhas_skills' into DOTNET-P002/id_03.ezequiel_lobo-minhas-skills
+==================================================  
+commit 8dc44c9a1fa5cd6ee0c641234be448d036bb5c43
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Sat Dec 16 07:21:46 2023 -0300
+
+    Ezequiel_skills
+==================================================  
+commit 8a88f51591ca2c3aadaa1e0e1278224930d051d3
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Sat Dec 16 07:20:16 2023 -0300
+
+    Ezequiel_skills
+==================================================  
+commit 864df5ef760d6992dd43a844ff3c7028898da962 (origin/Dev)
+Author: Alan Carlos <alancarlospereira.ti@gmail.com>
+Date:   Fri Dec 15 17:24:03 2023 -0300
+
+    Estrutrura inicial
+==================================================  
+commit 07a58847cdba497ee7b17c8d652694308ead842d
+Merge: 703b86b d28310a
+Author: Alan Santos <30904884+AlanSantos01@users.noreply.github.com>
+Date:   Thu Dec 14 17:28:34 2023 -0300
+
+    Merge pull request #6 from AlanSantos01/DOTNET-P002/id_03.FranklinPereira-minhas_skills
+    
+    Dotnet p002/id 03.franklin pereira minhas skills
+==================================================  
+commit d28310a2f3b456542f069a24138aa0734bbcbadd (origin/DOTNET-P002/id_03.FranklinPereira-minhas_skills)
+Merge: 6386b1a 703b86b
+Author: FranklinMenezes2309 <fmpereira2309@hotmail.com>
+Date:   Thu Dec 14 17:02:56 2023 -0300
+
+    feat:merge com a branch RoadMap
+==================================================  
+commit 6386b1ab010bceceb671e852ac8ef7a29901349e
+Author: FranklinMenezes2309 <fmpereira2309@hotmail.com>
+Date:   Thu Dec 14 16:53:35 2023 -0300
+
+    feat:tarefa concluida
+==================================================  
+commit 9f86d51ebca66c93aebaa222a5cddaff6e0eaa22
+Author: “danielcoutinhoneto” <“danielcoutinhoneto@outlook.com”>
+Date:   Thu Dec 14 11:59:09 2023 -0300
+
+    Implementação da Tarefa id_3
+==================================================  
+commit 703b86b0ebccae93083f01034727c56687cee199
+Merge: f4bad83 df3170d
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Thu Dec 14 11:58:59 2023 -0300
+
+    Merge pull request #5 from AlanSantos01/DOTNET-P002/id_03.alan_carlos-minhas_skills
+    
+    subindo tarefa 3 - Alan Carlos
+==================================================  
+commit f4bad83cb0332b774c3fd21a87d7da821b2df159
+Merge: 165cacd 7320cca
+Author: Alan Santos <30904884+AlanSantos01@users.noreply.github.com>
+Date:   Thu Dec 14 11:56:47 2023 -0300
+
+    Merge pull request #4 from AlanSantos01/DOTNET-P002/id_03.breno_rios-minhas_skills
+    
+    Updated skills list
+==================================================  
+commit df3170dec635d860edd6b59fe2c6cfe5bc156b8a (origin/DOTNET-P002/id_03.alan_carlos-minhas_skills)
+Author: Alan Carlos <alancarlospereira.ti@gmail.com>
+Date:   Thu Dec 14 11:53:33 2023 -0300
+
+    subindo tarefa 3 - Alan Carlos
+==================================================  
+commit 7320cca33fa5b025234bf0f3604064a06c128ab9 (origin/DOTNET-P002/id_03.breno_rios-minhas_skills)
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Thu Dec 14 11:50:49 2023 -0300
+
+    Updated skills list
+==================================================  
+commit 165cacd21d6c394bca9ddb4284c7e611514f5078
+Merge: e512f0c 6b26391
+Author: Daniel Coutinho Neto <danielcoutinhoneto@outlook.com>
+Date:   Thu Dec 14 10:44:47 2023 -0300
+
+    Merge pull request #3 from AlanSantos01/DOTNET-P002/id_03.breno_rios-minhas_skills
+    
+    Add id_03.breno_rios
+==================================================  
+commit 6b26391cfb04a3f9694b10b7ec94c94312add5e8
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Thu Dec 14 10:23:03 2023 -0300
+
+    Add id_03.breno_rios
+==================================================  
+commit e512f0cca9612c18bc25d5015d46bcb8d95b4620
+Merge: c446d9c 3963061
+Author: Alan Santos <30904884+AlanSantos01@users.noreply.github.com>
+Date:   Thu Dec 14 10:12:20 2023 -0300
+
+    Merge pull request #1 from AlanSantos01/DOTNET-P002/id_02-criar_projeto_web
+    
+    tarefa2-paginaweb
+==================================================  
+commit 3963061dea82c140c41ee43e7be46162c1658c5e (origin/DOTNET-P002/id_02-criar_projeto_web)
+Author: Alan Carlos <alancarlospereira.ti@gmail.com>
+Date:   Thu Dec 14 10:07:05 2023 -0300
+
+    tarefa2-paginaweb
+==================================================  
+commit 1eaff0e4db438702ffac602c241a4fb1db69fd79 (origin/DOTNET-P002/id_01-criarReadme)
+Author: Alan Carlos <alancarlospereira.ti@gmail.com>
+Date:   Thu Dec 14 09:43:49 2023 -0300
+
+    finalizando tarefa de criacao do README
+==================================================  
+commit 4c9f1c8f5dd749a90bb5ba0967c20937636c2bf4 (origin/ProjetoPessoal)
+Author: Alan Carlos <alancarlospereira.ti@gmail.com>
+Date:   Tue Dec 12 17:47:59 2023 -0300
+
+    commit inicial Ordem de Servico
+==================================================  
+commit 5b2624f24558389c2888336354ccbc3e0ddc464b
+Author: Alan Carlos <alancarlospereira.ti@gmail.com>
+Date:   Tue Dec 12 17:24:41 2023 -0300
+
+    commit inicial do projeto Ordem de Servico
+==================================================  
+commit c446d9c3c563a0c3ee7879155bc40e1ea279485f (origin/main, origin/HEAD, main)
+Author: Alan Carlos <alancarlospereira.ti@gmail.com>
+Date:   Tue Dec 12 16:59:22 2023 -0300
+
+    gitignore
+==================================================  
+commit b644925d1ded2978ca8996653a15457ba9b1dbad
+Author: Alan Santos <30904884+AlanSantos01@users.noreply.github.com>
+Date:   Tue Dec 12 14:39:27 2023 -0300
+
+    Initial commit
+==================================================      
+
+##############TRILHA DE FRONT END ###########################
+
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-20T02:46:33Z
+Message: otimização
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-20T02:42:29Z
+Message: Coponente adicionado
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-20T01:44:03Z
+Message: Desenvolvimento prática 6
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-14T02:15:12Z
+Message: dESENVOLVIMENTO PRÁTICA 5
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-06T11:45:57Z
+Message: Adição do arquivo de Banco de dados
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-06T11:41:50Z
+Message: Atualização
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-05T15:33:17Z
+Message: final versão Demo
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-05T12:57:14Z
+Message: Otimização e correções
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-05T10:51:19Z
+Message: Otimização projeto
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-03T12:57:24Z
+Message: Adição de relatorios
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-03T06:16:54Z
+Message: inicio de implementação de funções
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-02T21:36:19Z
+Message: .
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-02T21:36:08Z
+Message: desenvolvimento do sistema de compra
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-12-02T17:08:55Z
+Message: Desenvolvimento de projeto fullStack
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-26T02:49:02Z
+Message: Final do Desenvolviento da prática 4
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-25T21:40:12Z
+Message: Correção de detalhes e otimização
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-25T21:24:46Z
+Message: Finalização da prática 3
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-25T21:24:06Z
+Message: Finalização da prática 3 FRONT
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-25T03:24:08Z
+Message: Finalizção pra atender todas as proporções pedidas
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-22T02:53:06Z
+Message: modificação
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-22T02:43:36Z
+Message: Desenvovimento da segunda prática
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-22T02:39:16Z
+Message: Organização
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-16T13:25:27Z
+Message: exercicio-03
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-16T13:15:41Z
+Message: exercicio-03
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-16T13:05:00Z
+Message: exercicio 1 e 2
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-12T15:58:06Z
+Message: atualização
+==================================================
+
+Repository: FRONT
+Author: EzekLobo
+Date: 2023-11-12T15:48:47Z
+Message: PI 001
+==================================================
+
+
+Repository: MeuProjeto
+Author: EzekLOBO
+Date: 2023-11-14T23:04:53Z
+Message: Aula
+==================================================
+
+Repository: MeuProjeto
+Author: EzekLOBO
+Date: 2023-11-09T15:01:15Z
+Message: Primeira aula
+==================================================
+
+Repository: MeuProjeto
+Author: EzekLobo
+Date: 2023-10-07T15:14:50Z
+Message: primeiro push
+==================================================
+
+Repository: MeuProjeto
+Author: EzekLobo
+Date: 2023-10-07T15:07:11Z
+Message: Adicinando .gitignore para ignorar o arquivo secreto.txt
+==================================================
+
+Repository: MeuProjeto
+Author: EzekLobo
+Date: 2023-10-07T15:02:45Z
+Message: Adicionando .gitignore para ignorar o arquivo secreto.txt
+==================================================
+
+Repository: MeuProjeto
+Author: EzekLobo
+Date: 2023-10-07T14:56:08Z
+Message: Adicionada mais informações sobre o projeto
+==================================================
+
+############ TRILHA DE JAVA ####################
+
+==================================================
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-12-05T19:30:54Z
+Message: final
+==================================================
+
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-12-05T19:22:18Z
+Message: otimização
+==================================================
+
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-12-05T18:54:36Z
+Message: .
+==================================================
+
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-12-05T18:54:28Z
+Message: desenvolvimento da prova
+==================================================
+
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-11-25T18:06:50Z
+Message: Finalização da prática 3, tratamento de exceções
+==================================================
+
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-11-22T02:56:21Z
+Message: Verificar Paridade
+==================================================
+
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-11-21T17:45:50Z
+Message: Concatena String
+==================================================
+
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-11-20T23:01:27Z
+Message: Segunda prática
+==================================================
+
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-11-18T22:16:38Z
+Message: Atualização
+==================================================
+
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-11-18T22:14:04Z
+Message: Atividade prática 1
+==================================================
+
+Repository: JAVA
+Author: EzekLOBO
+Date: 2023-11-14T23:42:08Z
+Message: Aula rede social
+==================================================
+
+Repository: JAVA
+Author: EzekLOBO
+Date: 2023-11-14T23:10:33Z
+Message: aula
+==================================================
+
+Repository: JAVA
+Author: EzekLOBO
+Date: 2023-11-14T21:03:09Z
+Message: Acompanhamento segunda aula
+==================================================
+
+Repository: JAVA
+Author: EzekLobo
+Date: 2023-11-14T12:09:48Z
+Message: Primeira prática
+==================================================
+
+# AVALIAÇÃO EM GRUPO JAVA
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T15:06:39Z
+Message: Merge pull request #8 from brenoriios/revisao-pagamentos-breno
+
+Ultimo comit da avaliacao
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T15:06:02Z
+Message: Ultimo comit da avaliacao
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T14:53:57Z
+Message: Merge pull request #7 from brenoriios/revisao-pagamentos-breno
+
+Corrigidas adicções de falhas e reparos
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T14:52:28Z
+Message: Corrigidas adicções de falhas e reparos
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T13:20:19Z
+Message: Merge pull request #6 from brenoriios/revisao-pagamentos-breno
+
+Correções no controle de Pagamentos e Reembolsos
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T13:18:52Z
+Message: Correções no controle de Pagamentos e Reembolsos
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T12:38:05Z
+Message: Merge pull request #5 from brenoriios/falhas-reparo-Thiago
+
+Classe Reparo
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T12:37:32Z
+Message: Merge pull request #4 from brenoriios/revisao-breno
+
+Revisao breno
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T12:36:22Z
+Message: Implementado controle de faturas
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: tlsena
+Date: 2023-12-07T12:03:08Z
+Message: Classe Reparo
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T12:01:44Z
+Message: Correções nos controles de Clientes e Imoveis
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T11:26:59Z
+Message: Atualizado README
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T11:14:05Z
+Message: Merge pull request #3 from brenoriios/Gestão-de-Imóveis-david
+
+Adicionando ControleImoveis
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-07T11:13:25Z
+Message: Merge pull request #2 from brenoriios/Controle-Pagamentos-Ezequiel
+
+Controle pagamentos ezequiel
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Ishinaru
+Date: 2023-12-07T08:17:28Z
+Message: Adicionando ControleImoveis
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: EzekLobo
+Date: 2023-12-07T06:21:53Z
+Message: Complemento
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: EzekLobo
+Date: 2023-12-07T04:55:25Z
+Message: Controle de pagamentos
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: EzekLobo
+Date: 2023-12-07T04:34:27Z
+Message: Pagamento
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: EzekLobo
+Date: 2023-12-07T04:26:27Z
+Message: Reembolso
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-06T02:24:29Z
+Message: Merge pull request #1 from brenoriios/controle-clientes-breno
+
+Implementadas classes Cliente e ControleClientes
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-06T02:22:33Z
+Message: Implementadas classes Cliente e ControleClientes
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-06T00:16:46Z
+Message: Criados menus do projeto
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-06T00:16:23Z
+Message: Adicionada estrutura base do projeto
+==================================================
+
+Repository: TIC18-Java-Distribuidora-de-Energia-COELHO
+Author: Breno Rios
+Date: 2023-12-05T23:56:45Z
+Message: Initial commit
+==================================================
+
+############### c# -NIVELAMENTO #######################
+==================================================
+
+Repository: ProjetoPessoal
+Author: EzekLobo
+Date: 2023-10-13T12:35:28Z
+Message: exemplos
+==================================================
+
+
+# AVALIAÇÃO EM GRUPO c# 1
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-24T23:33:12Z
+Message: Merge branch 'master' of https://github.com/caiopngoncalves/avaliacao-1-tic-18
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-24T23:28:33Z
+Message: Merge branch 'master' of https://github.com/caiopngoncalves/avaliacao-1-tic-18
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-24T23:28:30Z
+Message: adição de mostra informações na alteração
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-24T23:28:13Z
+Message: correção no alterar e excluir consulta
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-24T22:54:48Z
+Message: Refatoração dos metodos alterar
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-24T21:23:54Z
+Message: Implementação da class app
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-24T21:20:07Z
+Message: desenvolvimento de consulta
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Raíssa Simões
+Date: 2023-10-24T21:15:39Z
+Message: Refatoração
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Raíssa Simões
+Date: 2023-10-24T21:15:13Z
+Message: Implementada a funcionalidade de excluir consulta
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Renata Bamberg
+Date: 2023-10-24T21:10:28Z
+Message: Implementada a possibilidade de listar consultas
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Marcos Vinicius
+Date: 2023-10-24T21:06:18Z
+Message: Iniciada implementação da classe de gerência de consultas
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-24T20:58:10Z
+Message: implementada classe gerenciador de medico
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-24T20:54:38Z
+Message: implementação de GerenciadorPacientes
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-24T20:52:01Z
+Message: Merge remote-tracking branch 'origin/master' into ezequiel
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-24T20:49:08Z
+Message: Merge branch 'master' of https://github.com/caiopngoncalves/avaliacao-1-tic-18
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Raíssa Simões
+Date: 2023-10-24T20:38:10Z
+Message: Implementada a classe consulta
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Renata Bamberg
+Date: 2023-10-24T20:31:07Z
+Message: Implementada a classe médico
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-24T18:41:23Z
+Message: Correção metododo inclluirMedico estava duplicado
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Raíssa Simões
+Date: 2023-10-24T12:35:56Z
+Message: Merge branch 'raissa'
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Raíssa Simões
+Date: 2023-10-24T12:34:39Z
+Message: Avaliacao 1 finalizada
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Raíssa Simões
+Date: 2023-10-24T00:51:09Z
+Message: Merge branch 'master' of https://github.com/caiopngoncalves/avaliacao-1-tic-18
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Renata Bamberg
+Date: 2023-10-24T00:50:51Z
+Message: Merge branch 'renata'
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Raíssa Simões
+Date: 2023-10-24T00:46:41Z
+Message: Merge branch 'raissa'
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Renata Bamberg
+Date: 2023-10-24T00:44:17Z
+Message: Implementação do código da avaliação individual
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Raíssa Simões
+Date: 2023-10-24T00:44:15Z
+Message: Implementação do código da av. individual
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-23T23:57:09Z
+Message: Remoção de acentos
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-23T23:17:42Z
+Message: Adicionada a gestão de Médicos
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-23T21:57:47Z
+Message: Correção dometodo alterar
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: EzekLobo
+Date: 2023-10-23T21:46:40Z
+Message: Crud medico Ezequiel
+==================================================
+
+Repository: avaliacao-1-tic-18
+Author: Marcos Vinicius
+Date: 2023-10-23T20:28:54Z
+Message: Implementada a classe paciente
+==================================================
+
+
+
+# AVALIAÇÃO EM GRUPO C# 2
+
+
+Repository: avaliacao-2-tic-18
+Author: EzekLobo
+Date: 2023-10-31T19:37:32Z
+Message: Detalhe
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: EzekLobo
+Date: 2023-10-31T19:34:25Z
+Message: Detalhes
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-31T19:04:40Z
+Message: Chamando os novos metodos implementados
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Raissa Simoes
+Date: 2023-10-31T18:59:40Z
+Message: segunda parte da prova
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: EzekLobo
+Date: 2023-10-31T18:43:25Z
+Message: implementaçõ de metodos da segunda parte da prova
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: EzekLobo
+Date: 2023-10-31T18:39:59Z
+Message: Merge remote-tracking branch 'origin/master' into ezequiel
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Renata Bamberg
+Date: 2023-10-31T18:27:17Z
+Message: Implementada as funções lista em ordem e mostra n primeiros de lista datas
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Renata Bamberg
+Date: 2023-10-31T18:23:28Z
+Message: Merge branch 'master' of https://github.com/caiopngoncalves/avaliacao-2-tic-18
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Renata Bamberg
+Date: 2023-10-31T18:22:14Z
+Message: configurações
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Marcos Vinicius
+Date: 2023-10-31T18:18:07Z
+Message: Implemetado as funções de listar ordem e mostar n primeiros de listas nomes
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: EzekLobo
+Date: 2023-10-31T18:16:08Z
+Message: Detalhes
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Marcos Vinicius
+Date: 2023-10-31T18:12:30Z
+Message: configurações
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-31T17:39:29Z
+Message: Merge branch 'master' of https://github.com/caiopngoncalves/avaliacao-2-tic-18
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-31T17:36:17Z
+Message: correção merge
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-31T17:31:37Z
+Message: Melhorias e ajustes no código base
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: EzekLobo
+Date: 2023-10-31T17:18:04Z
+Message: Detalhe
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: EzekLobo
+Date: 2023-10-31T16:44:02Z
+Message: Correção: variavel declarada 2 vezes
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-31T12:47:53Z
+Message: Merge branch 'raissa'
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-31T12:45:39Z
+Message: Merge branch 'marcos'
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Raissa Simoes de Angelo
+Date: 2023-10-31T00:26:13Z
+Message: Implementada a classe de listaData e data
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Marcos Vinicius
+Date: 2023-10-30T19:51:10Z
+Message: Implementada classe lista salario
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Marcos Vinicius
+Date: 2023-10-30T19:38:54Z
+Message: Merge branch 'master' into marcos
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Marcos Vinicius
+Date: 2023-10-30T19:38:02Z
+Message: Configurações
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-30T19:34:39Z
+Message: Merge branch 'master' of https://github.com/caiopngoncalves/avaliacao-2-tic-18
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Renata Bamberg
+Date: 2023-10-30T19:31:03Z
+Message: Implementando as funções da classe lista e idade
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: EzekLobo
+Date: 2023-10-30T19:16:45Z
+Message: Desenvolvimento da classe ListaNomes
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-30T18:27:36Z
+Message: corrigindo a hierarquia das classes
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-30T18:26:26Z
+Message: criando a hierarquia das classes
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-30T18:23:05Z
+Message: deifinindo estrutura de pastas do repositório
+==================================================
+
+Repository: avaliacao-2-tic-18
+Author: Caio Gonçalves
+Date: 2023-10-30T18:07:10Z
+Message: Initial commit
+==================================================
+
+##################### TRILHA DE PYTHON - EM GRUPO ###############################
+
+==================================================
+Repository: ResidenciaTIC18-python
+Author: Alberto Henrique
+Date: 2023-12-06T11:51:58Z
+Message: Resultado PP-P004
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Alberto Henrique
+Date: 2023-12-06T11:50:11Z
+Message: 1 e 3 implementação do grupo
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Alberto Henrique
+Date: 2023-12-06T11:49:10Z
+Message: Merge branch 'Alberto-Avaliacao4' into Desenvolvimento
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Alberto Henrique
+Date: 2023-12-06T11:42:38Z
+Message: Subindo exercicio 1 e 2
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Alessandro Conceição Santos
+Date: 2023-12-06T11:35:31Z
+Message: Merge branch 'Desenvolvimento' of https://github.com/albertolunia/ResidenciaTIC18-python into Alessandro-Avaliacao1
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Alessandro Conceição Santos
+Date: 2023-12-06T11:31:07Z
+Message: Finalização
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Brendom Gonçalves
+Date: 2023-12-05T23:51:38Z
+Message: Merge branch 'Brendom-Avaliacao1' into Desenvolvimento
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: EzekLobo
+Date: 2023-12-05T19:57:35Z
+Message: Merge remote-tracking branch 'origin/Ezequiel-Pratica04' into Desenvolvimento
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: joaopedropinto
+Date: 2023-12-05T17:54:47Z
+Message: Merge pull request #5 from albertolunia/Joao-Avaliacao1
+
+Joao avaliacao1
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Brendom Gonçalves
+Date: 2023-12-05T15:18:20Z
+Message: Exercicio 3 Avaliação Concluido
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Brendom Gonçalves
+Date: 2023-12-05T15:05:34Z
+Message: Segunda Atividade Exercicio 2 Avaliação Concluida
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Brendom Gonçalves
+Date: 2023-12-05T14:46:40Z
+Message: Primeira atividade Exercicio 2 Avaliação Concluida
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Brendom Gonçalves
+Date: 2023-12-05T14:31:43Z
+Message: Exercicio 1 Avaliação Concluido
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: joaopedropinto
+Date: 2023-12-05T14:19:03Z
+Message: corrigindo
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: joaopedropinto
+Date: 2023-12-04T19:27:24Z
+Message: adicionando avaliação
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: EzekLobo
+Date: 2023-12-03T20:28:18Z
+Message: Finalização do menu
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: EzekLobo
+Date: 2023-12-03T20:11:51Z
+Message: completo
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: EzekLobo
+Date: 2023-12-03T19:33:41Z
+Message: Modificação mediana
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Alessandro Conceição Santos
+Date: 2023-12-03T17:33:29Z
+Message: Arquivos da avaliacao1
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: EzekLobo
+Date: 2023-12-03T17:12:36Z
+Message: Desenvolvimento do exercício 2
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: EzekLobo
+Date: 2023-12-03T16:37:06Z
+Message: Validações e otimização
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: EzekLobo
+Date: 2023-12-03T16:23:09Z
+Message: Organização em arquivos
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: EzekLobo
+Date: 2023-12-03T15:57:42Z
+Message: implementações adicionais
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: EzekLobo
+Date: 2023-12-03T15:03:22Z
+Message: correção e teste das classes
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: albertolunia
+Date: 2023-11-29T13:09:56Z
+Message: Colocando a escolhida na pasta raiz
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: EzekLobo
+Date: 2023-11-29T12:46:54Z
+Message: Merge remote-tracking branch 'origin/Ezequiel-Pratica03' into Desenvolvimento
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Brendom Gonçalves
+Date: 2023-11-29T03:22:43Z
+Message: Merge branch 'Brendom-Feature-Pratica03' into Desenvolvimento
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Brendom Gonçalves
+Date: 2023-11-29T03:21:27Z
+Message: exercicio 2 concluido
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Brendom Gonçalves
+Date: 2023-11-29T03:03:58Z
+Message: exercicio 1 concluido
+==================================================
+
+Repository: ResidenciaTIC18-python
+Author: Alberto Henrique
+Date: 2023-11-28T20:44:54Z
+Message: Merge branch 'Alberto-feature-lista3' into Desenvolvimento
+==================================================
+
+
+
+
+
+
+
+
+
